@@ -1,1 +1,35 @@
-site_name: My Docs
+site_name: Documentação (SGDP)
+site_url: https://seticdfgov.github.io/SGDP-Docs/
+
+repo_url: https://github.com/SeticDFGov
+repo_name: Sistema de Gestão de demandas e projetos
+
+nav: 
+  - Home: index.md
+  - Modelagem: modelagem/modelagem.md
+  - Requisitos: requisitos/requisitos.md
+    # markdown_extensions:
+#   - toc:
+#       permalink: true
+
+theme:
+  name: material
+  font:
+    text: inter
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
