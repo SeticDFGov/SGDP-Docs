@@ -9,6 +9,7 @@ nav:
   - Requisitos: requisitos/requisitos.md
   - UML: UML/uml.md
   - Modelagem: modelagem/modelagem.md
+  - Arquitetura Final: arquitetura/arq.md 
     # markdown_extensions:
 #   - toc:
 #       permalink: true
