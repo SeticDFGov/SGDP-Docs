@@ -6,8 +6,9 @@ repo_name: Sistema de Gestão de demandas e projetos
 
 nav: 
   - Home: index.md
-  - Modelagem: modelagem/modelagem.md
   - Requisitos: requisitos/requisitos.md
+  - UML: UML/uml.md
+  - Modelagem: modelagem/modelagem.md
     # markdown_extensions:
 #   - toc:
 #       permalink: true
